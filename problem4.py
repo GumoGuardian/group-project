@@ -20,5 +20,3 @@ def convert_list():
 make_a_list_()
 convert_list()
 print(numbers)
-
-# make_a_list_()
